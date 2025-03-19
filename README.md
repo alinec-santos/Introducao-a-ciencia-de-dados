@@ -16,8 +16,8 @@ conjunto de dados será de acordo com a turma prática da turma (P1: BrStats e P
 SPSafe). Nosso grupo pertece a turma P1, por esse motivo vamos usar o seguinte conjunto de dados: https://sol.sbc.org.br/index.php/dsw/article/view/25506
 
 ## Integrantes 
-Aline Cristina Santos Silva - 5791
-Gustavo Luca Ribeiro Da Silva - 5787
-Luana Tavares Anselmo - 5364
-Marcus Eduardo Resende Melo - 5779
+Aline Cristina Santos Silva - 5791   
+Gustavo Luca Ribeiro Da Silva - 5787   
+Luana Tavares Anselmo - 5364   
+Marcus Eduardo Resende Melo - 5779   
 
