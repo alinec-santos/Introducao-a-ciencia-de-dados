@@ -30,7 +30,7 @@ Marcus Eduardo Resende Melo - 5779
 6. Cidades com maior produção agrícola têm melhores ou piores indicadores de saúde infantil?   
 7. Como a produção pecuária está relacionada à densidade populacional e ao desenvolvimento econômico? Regiões com maior produção pecuária têm maior PIB per capita?
 8. Cidades com maior densidade populacional têm maior volume de exportações?   
-9. Qual é a relação entre o número de empregos informais e o PIB per capita? Cidades com maior informalidade têm menor PIB?   
+9. Qual é a relação entre o número de empregos informais e o PIB per capita? Cidades com maior informalidade têm menor PIB?
 10.Quais são as principais diferenças socioeconômicas entre as regiões do Brasil?    
 
 
