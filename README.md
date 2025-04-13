@@ -22,7 +22,7 @@ Luana Tavares Anselmo - 5364
 Marcus Eduardo Resende Melo - 5779   
 
 ## Perguntas Escolhidas
-1. Existe uma correlação entre o PIB per capita de uma cidade e a taxa de mortalidade infantil?   
+1. Existe uma correlação entre o PIB per capita de um estado e a taxa de mortalidade infantil?   
 2. Qual é o impacto da produção agrícola e pecuária no PIB das cidades? Regiões com maior produção agrícola têm maior PIB per capita?   
 3. Cidades com maior área cultivada têm menor densidade populacional? Isso afeta o desenvolvimento econômico?   
 4. Como a densidade populacional de uma cidade está relacionada ao número de empregos e à taxa de mortalidade infantil? Cidades mais populosas têm mais empregos, mas piores indicadores de saúde?   
@@ -30,7 +30,7 @@ Marcus Eduardo Resende Melo - 5779
 6. Cidades com maior produção agrícola têm melhores ou piores indicadores de saúde infantil?   
 7. Como a produção pecuária está relacionada à densidade populacional e ao desenvolvimento econômico? Regiões com maior produção pecuária têm maior PIB per capita?
 8. Cidades com maior densidade populacional têm maior volume de exportações?   
-9. Qual é a relação entre o número de empregos informais e o PIB per capita? Cidades com maior informalidade têm menor PIB?
+9. Qual é a relação entre o número de empregos informais e o PIB per capita? Estados com maior informalidade têm menor PIB?
 10. Quais são as principais diferenças socioeconômicas entre as regiões do Brasil?    
   
 
