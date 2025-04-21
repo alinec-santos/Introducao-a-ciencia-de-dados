@@ -1,4 +1,4 @@
-# Projeto de Desenvolvimento
+# Projeto Desenvolvedor
 ## Introdução
 Na maioria das vezes, os dados utilizados em um problema real para a extração de
 conhecimento e predição de acontecimentos são desorganizados, com ruído, erros
