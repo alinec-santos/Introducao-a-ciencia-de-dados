@@ -1,0 +1,16 @@
+Estatisticas descritivas - Grupo GrupoB (2016 a 2021)
+
+PIB per capita:
+  - Media: 20876.38
+  - Desvio Padrao: 8053.79
+  - Erro Padrao: 1898.30
+
+Obitos Infantis:
+  - Media: 7.60
+  - Desvio Padrao: 2.13
+  - Erro Padrao: 0.50
+
+Povoamento (Densidade Populacional):
+  - Media: 112.21
+  - Desvio Padrao: 80.14
+  - Erro Padrao: 18.89
