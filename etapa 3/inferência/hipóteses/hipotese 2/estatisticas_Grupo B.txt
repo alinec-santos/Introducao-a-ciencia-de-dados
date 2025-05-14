@@ -1,7 +1,7 @@
-Estatisticas descritivas - Grupo Grupo B (2016 a 2021)
+Estatisticas descritivas - Grupo B (2016 a 2021)
 
 Obitos Infantis:
-  - Media: 7.60
+  - Media: 7.59
   - Desvio Padrao: 2.13
   - Erro Padrao: 0.50
 
