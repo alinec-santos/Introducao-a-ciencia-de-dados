@@ -13,7 +13,7 @@ de SP (SPSafe) e Dados demográficos dos municípios brasileiros (BrStats). Para
 cada conjunto, há um artigo descrevendo os detalhes de como os dados foram
 gerados, que deve ser lido criteriosamente pelos membros do grupo. A seleção do
 conjunto de dados será de acordo com a turma prática da turma (P1: BrStats e P2:
-SPSafe). Nosso grupo pertece a turma P1.Por esse motivo, vamos usar o seguinte conjunto de dados: https://sol.sbc.org.br/index.php/dsw/article/view/25506
+SPSafe). Nosso grupo pertece a turma P1.Por esse motivo, vamos usar o seguinte conjunto de dados:[DataSet]https://sol.sbc.org.br/index.php/dsw/article/view/25506
 
 ## Integrantes 
 Aline Cristina Santos Silva - 5791   
