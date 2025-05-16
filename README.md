@@ -1,37 +1,84 @@
-# Projeto Desenvolvedor
-## Introdução
-Na maioria das vezes, os dados utilizados em um problema real para a extração de
-conhecimento e predição de acontecimentos são desorganizados, com ruído, erros
-ou campos vazios. Além disso, resultados, que são aparentemente muito prováveis
-e esperados, muitas vezes não são observados nos dados.
-O objetivo deste projeto é aplicar os conteúdos aprendidos em sala de aula em um
-problema real, com dados reais disponíveis publicamente. Com isso, os alunos irão
-enfrentar muitas das dificuldades que um cientista de dados deve estar preparado
-para lidar.
-Em particular, temos disponíveis dois conjuntos de dados: Dados de criminalidade
-de SP (SPSafe) e Dados demográficos dos municípios brasileiros (BrStats). Para
-cada conjunto, há um artigo descrevendo os detalhes de como os dados foram
-gerados, que deve ser lido criteriosamente pelos membros do grupo. A seleção do
-conjunto de dados será de acordo com a turma prática da turma (P1: BrStats e P2:
-SPSafe). Nosso grupo pertece a turma P1.Por esse motivo, vamos usar o seguinte conjunto de dados: https://sol.sbc.org.br/index.php/dsw/article/view/25506
+# Projeto de Introdução à Ciência dos Dados – BrStats (Turma P1)
 
-## Integrantes 
+---
+
+## 🏫 Universidade Federal de Viçosa – Campus Florestal  
+**Curso:** Bacharelado em Ciência da Computação  
+**Disciplina:** CCF425 – Introdução à Ciência dos Dados  
+**Professor:** Fabrício A. Silva  
+**Monitores:** João Marcos e Letícia 
+
+---
+
+## 📋 Sobre o Projeto
+
+O objetivo deste projeto é aplicar os conceitos e técnicas aprendidos em sala de aula para análise de dados reais, lidando com os desafios comuns da ciência de dados, como dados desorganizados, ruídos e informações faltantes.  
+
+O grupo trabalha com o conjunto de dados **BrStats** (dados demográficos dos municípios brasileiros) para explorar, analisar e extrair conhecimento significativo, utilizando técnicas como limpeza de dados, análise exploratória, inferência estatística, regras de associação, regressão e aprendizado de máquina.
+
+---
+
+## ⚙️ Estrutura do Projeto
+
+O projeto está organizado em etapas, com entregas específicas para cada fase:
+
+| Etapa | Descrição | Data de Entrega | Pontos |
+|-------|-----------|-----------------|--------|
+| 1 | Entendimento e preparação inicial dos dados, criação de perguntas e tratamento 
+| 2 | Análise exploratória com estatísticas descritivas, gráficos e correlações
+| 3 | Inferência estatística e regras de associação 
+| 4 | Aplicação de regressão linear e análise dos resultados
+| 5 | Aprendizado supervisionado e não-supervisionado para previsão e agrupamento 
+| Apresentação final | Apresentação das descobertas em 10 minutos para público não técnico
+
+---
+
+## 🔎 Dataset Utilizado
+
+- **BrStats – Dados demográficos dos municípios brasileiros**  
+  Dados que incluem indicadores como PIB per capita, mortalidade infantil, densidade populacional, produção agrícola, área plantada, entre outros.
+  
+---
+
+## 🧑‍🤝‍🧑 Integrantes
 Aline Cristina Santos Silva - 5791   
 Gustavo Luca Ribeiro Da Silva - 5787   
 Luana Tavares Anselmo - 5364   
 Marcus Eduardo Resende Melo - 5779   
 
-## Perguntas Escolhidas
-1. Existe uma correlação entre o PIB per capita de um estado e a taxa de mortalidade infantil?   
-2. Qual é o impacto da produção agrícola e pecuária no PIB das cidades? Regiões com maior produção agrícola têm maior PIB per capita?   
-3. Cidades com maior área cultivada têm menor densidade populacional? Isso afeta o desenvolvimento econômico?   
-4. Como a densidade populacional de uma cidade está relacionada ao número de empregos e à taxa de mortalidade infantil? Cidades mais populosas têm mais empregos, mas piores indicadores de saúde?   
-5. Estados com maior volume de exportações têm maior PIB per capita? E como isso se relaciona com o número de empresas e empregos?   
-6. Cidades com maior produção agrícola têm melhores ou piores indicadores de saúde infantil?   
-7. Como a produção pecuária está relacionada à densidade populacional e ao desenvolvimento econômico? Regiões com maior produção pecuária têm maior PIB per capita?
-8. Cidades com maior densidade populacional têm maior volume de exportações?   
-9. Qual é a relação entre o número de empregos informais e o PIB per capita? Estados com maior informalidade têm menor PIB?
-10. Quais são as principais diferenças socioeconômicas entre as regiões do Brasil?    
-  
+---
 
+## ⚙️ Tecnologias Utilizadas
+
+- Python 3.x  
+- Bibliotecas: pandas, numpy, mlxtend, plotly, scikit-learn, scipy  
+- Jupyter Notebook para desenvolvimento e documentação interativa  
+- Git e GitHub para versionamento e colaboração  
+
+---
+
+## 🚀 Como executar
+
+1. Clone o repositório:  
+```bash
+git clone https://github.com/seu_usuario/seu_repositorio.git
+
+---
+
+## ❓ Perguntas de Pesquisa
+
+Durante a etapa inicial do projeto, nosso grupo elaborou uma lista com as principais perguntas que pretendemos responder a partir da análise dos dados BrStats. Essas perguntas guiaram nossas investigações e o desenvolvimento das etapas subsequentes.
+
+1. Existe correlação entre o PIB per capita de um estado e a taxa de mortalidade infantil?  
+2. Qual é o impacto da produção agrícola e pecuária no PIB das cidades? Regiões com maior produção agrícola têm maior PIB per capita?  
+3. Cidades com maior área cultivada têm menor densidade populacional? Isso afeta o desenvolvimento econômico?  
+4. Como a densidade populacional de uma cidade está relacionada ao número de empregos e à taxa de mortalidade infantil? Cidades mais populosas têm mais empregos, mas piores indicadores de saúde?  
+5. Estados com maior volume de exportações têm maior PIB per capita? E como isso se relaciona com o número de empresas e empregos?  
+6. Cidades com maior produção agrícola têm melhores ou piores indicadores de saúde infantil?  
+7. Como a produção pecuária está relacionada à densidade populacional e ao desenvolvimento econômico? Regiões com maior produção pecuária têm maior PIB per capita?  
+8. Cidades com maior densidade populacional têm maior volume de exportações?  
+9. Qual é a relação entre o número de empregos informais e o PIB per capita? Estados com maior informalidade têm menor PIB?  
+10. Quais são as principais diferenças socioeconômicas entre as regiões do Brasil?
+
+Essas perguntas direcionaram nossas análises exploratórias, estatísticas e modelagens preditivas ao longo do projeto.
 
