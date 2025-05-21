@@ -1,0 +1,7 @@
+Estatisticas descritivas -  Grupo B (2016 a 2021)
+
+PIB per capita:
+  - Media: 19084.89
+  - Desvio Padrao: 6721.66
+  - Erro Padrao: 1735.52
+
