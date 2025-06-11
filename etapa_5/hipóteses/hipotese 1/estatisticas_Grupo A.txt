@@ -1,7 +1,0 @@
-Estatisticas descritivas -  Grupo A (2016 a 2021)
-
-PIB per capita:
-  - Media: 38289.91
-  - Desvio Padrao: 8445.73
-  - Erro Padrao: 2438.07
-

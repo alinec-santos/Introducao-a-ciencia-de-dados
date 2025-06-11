@@ -1,8 +1,0 @@
-Estatisticas descritivas - Grupo A (2016 a 2021)
-
-Obitos Infantis:
-  - Media: 4.60
-  - Desvio Padrao: 1.51
-  - Erro Padrao: 0.44
-
-
