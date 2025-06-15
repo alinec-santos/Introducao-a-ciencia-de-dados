@@ -51,15 +51,15 @@ O projeto está organizado em etapas, com entregas específicas para cada fase:
 
 Durante a etapa inicial do projeto, nosso grupo elaborou uma lista com as principais perguntas que pretendemos responder a partir da análise dos dados BrStats. Essas perguntas guiaram nossas investigações e o desenvolvimento das etapas subsequentes.
 
-1. Existe correlação entre o PIB per capita de um estado e a taxa de mortalidade infantil?  
-2. Qual é o impacto da produção agrícola e pecuária no PIB das cidades? Regiões com maior produção agrícola têm maior PIB per capita?  
-3. Cidades com maior área cultivada têm menor densidade populacional? Isso afeta o desenvolvimento econômico?  
-4. Como a densidade populacional de uma cidade está relacionada ao número de empregos e à taxa de mortalidade infantil? Cidades mais populosas têm mais empregos, mas piores indicadores de saúde?  
-5. Estados com maior volume de exportações têm maior PIB per capita? E como isso se relaciona com o número de empresas e empregos?  
+1. Existe correlação entre o PIB per capita de uma região e a taxa de mortalidade infantil?  
+2. Regiões com maior produção agrícola têm maior PIB per capita?  
+3. Cidades com maior área cultivada têm menor densidade populacional? 
+4. Cidades mais populosas têm mais empregos, mas piores indicadores de saúde?  
+5. Estados com maior volume de exportações têm maior PIB per capita?  
 6. Cidades com maior produção agrícola têm melhores ou piores indicadores de saúde infantil?  
-7. Como a produção pecuária está relacionada à densidade populacional e ao desenvolvimento econômico? Regiões com maior produção pecuária têm maior PIB per capita?  
+7. Regiões com maior produção pecuária têm maior PIB per capita?  
 8. Cidades com maior densidade populacional têm maior volume de exportações?  
-9. Qual é a relação entre o número de empregos informais e o PIB per capita? Estados com maior informalidade têm menor PIB?  
+9. Estados com maior informalidade têm menor PIB?  
 10. Quais são as principais diferenças socioeconômicas entre as regiões do Brasil?
 
 Essas perguntas direcionaram nossas análises exploratórias, estatísticas e modelagens preditivas ao longo do projeto.
