@@ -79,7 +79,7 @@ Essas perguntas direcionaram nossas análises exploratórias, estatísticas e mo
 
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/seu_usuario/seu_repositorio.git
+git clone https://github.com/alinec-santos/Introducao-a-ciencia-de-dados.git
 ---
 
 
